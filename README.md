@@ -30,28 +30,33 @@ This project demonstrates strong understanding of:
 # ✨ Features
 
 ## 🔍 Train Search System
+
 - Search trains using source & destination
 - View all available trains
 - Search by train number
 - Display available stations
 
 ## 🎫 Ticket Booking
+
 - Book train tickets
 - Dynamic seat availability checking
 - Passenger details handling
 - Fare calculation system
 
 ## 📌 PNR Management
+
 - Auto-generated unique PNR
 - Check booking status using PNR
 - View booking details
 
 ## ❌ Cancellation System
+
 - Cancel booked tickets
 - Automatic seat restoration
 - Refund message generation
 
 ## 🎨 Aesthetic Console UI
+
 - ANSI Colored Terminal Design
 - Dashboard-style menus
 - Beautiful ticket printing format
@@ -60,14 +65,14 @@ This project demonstrates strong understanding of:
 
 # 🛠️ Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| Java | Core Development |
-| OOP Concepts | Project Structure |
-| ArrayList | Data Storage |
-| UUID | PNR Generation |
+| Technology    | Usage             |
+| ------------- | ----------------- |
+| Java          | Core Development  |
+| OOP Concepts  | Project Structure |
+| ArrayList     | Data Storage      |
+| UUID          | PNR Generation    |
 | Java Time API | Booking Timestamp |
-| Scanner Class | User Input |
+| Scanner Class | User Input        |
 
 ---
 
@@ -82,3 +87,4 @@ src/
 ├── SearchService.java
 ├── BookingService.java
 ├── TrainDatabase.java
+```
